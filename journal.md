@@ -1,4 +1,6 @@
 # September 6, 2024
+-Accelerometer, Gyroscope, and Infrared sensors are found on the Sphero BOLT.
+-
 
 # September 26, 2024
 -this id a free week
