@@ -1,6 +1,6 @@
 # September 6, 2024
 -Accelerometer, Gyroscope, and Infrared sensors are found on the Sphero BOLT.
--
+-The gyroscope measures rotation and orientation, helping the BOLT navigate accurately.
 
 # September 26, 2024
 -this id a free week
