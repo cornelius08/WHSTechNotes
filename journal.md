@@ -1,4 +1,5 @@
-# September 10, 2024
+# September 6, 2024
+
 # September 26, 2024
 -this id a free week
 
