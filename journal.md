@@ -13,6 +13,9 @@
 
 -Good habits in attention to detail early on prevent errors and make your code reliable.
 
+# October 1, 2024
+Using my smartphone to check the weather is a task where computer science plays a role. Weather apps use complex algorithms to provide accurate forecasts, helping me plan my day. Without this technology, my planning would be less precise and more inconvenient.
+
 
 # October 2, 2024
 One task where computer science plays a big role in my daily routine is using my smartphone for communication. Apps like messaging platforms rely on algorithms to send texts instantly. This keeps me connected and organized. Without it, my day would be much more chaotic and less efficient.
