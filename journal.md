@@ -12,3 +12,6 @@
 -Missing steps or details in coding can cause errors and bugs.
 
 -Good habits in attention to detail early on prevent errors and make your code reliable.
+
+
+# October 2, 2024
