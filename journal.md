@@ -15,3 +15,4 @@
 
 
 # October 2, 2024
+One task where computer science plays a big role in my daily routine is using my smartphone for communication. Apps like messaging platforms rely on algorithms to send texts instantly. This keeps me connected and organized. Without it, my day would be much more chaotic and less efficient.
